@@ -1,6 +1,4 @@
-# TextClassification-ML
-
-# Tweet Sentiment Analysis
+# Tweet Sentiment Analysis with Machine Learning and Deep Learning
 
 This repository contains a machine learning model for classifying the sentiment of tweets as **Positive**, **Neutral**, or **Negative**. The model uses advanced Natural Language Processing (NLP) techniques to analyze and categorize tweet content.
 
